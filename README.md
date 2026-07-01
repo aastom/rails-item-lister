@@ -2,6 +2,13 @@
 
 This project is a foundational learning application demonstrating the core Model-View-Controller (MVC) pattern in Ruby on Rails. It shows how to connect a Rails application to a database (SQLite), fetch records using a Model, handle a web request with a Controller, and render the data in a View.
 
+## 📚 Documentation
+
+A complete documentation bundle, including a learning roadmap and supporting references, is available on Google Drive.
+
+- [**Documentation Bundle: Rails Item Lister**](https://docs.google.com/document/d/1uu4G5kYWYMysYappwPh8B8nVGixP0Vd0KUIyVSz1YkM/edit)
+- [**Project Folder: Rails Item Lister — R&D Lab**](https://drive.google.com/drive/folders/1FUTx7fn4FP3sNDQ6lzHCSA95TfvySfxD)
+
 ## MVC Architecture Flow
 
 This diagram illustrates how a user request flows through the MVC components in this application to render the list of items.
